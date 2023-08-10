@@ -1,0 +1,39 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "beforeClassSetUp",
+        "resultFileName": "BeforeClassSetUp"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1691679199192,
+      "duration": 21,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "exampleTest",
+        "name": "exampleTest",
+        "resultFileName": "ExampleTest",
+        "sign": "ExampleTest.exampleTest()[pri:0, instance:tests.ExampleTest@1846579f]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1691679201926,
+      "duration": 193,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

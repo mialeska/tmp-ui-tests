@@ -1,0 +1,34 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 1,
+  "skip": 0,
+  "classes": [
+    "base.BaseTest",
+    "tests.ExampleTest"
+  ],
+  "envInfo": {
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "SNAPSHOT",
+      "qaf-Build-Time": "30-Apr-2023 19:53:12",
+      "qaf-Version": "current"
+    },
+    "run-parameters": {
+      "resources": "resources",
+      "browserType": "CHROME"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Amazon.com Inc.",
+      "java.version": "16.0.2",
+      "os.arch": "amd64",
+      "host": "CMDB-80860",
+      "os.name": "Windows 10",
+      "user.name": "a2.meleshko",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1691679198700,
+  "endTime": 1691679202426
+}

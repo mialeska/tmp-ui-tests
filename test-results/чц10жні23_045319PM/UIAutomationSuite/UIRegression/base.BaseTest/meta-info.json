@@ -1,0 +1,62 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "CHROME"
+      ],
+      "metaData": {
+        "description": "",
+        "name": "configSetUpMethod",
+        "resultFileName": "ConfigSetUpMethod"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1691679198700,
+      "duration": 444,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        {},
+        {}
+      ],
+      "metaData": {
+        "description": "",
+        "name": "beforeMethodSetUp",
+        "resultFileName": "BeforeMethodSetUp"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1691679199313,
+      "duration": 2611,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        {}
+      ],
+      "metaData": {
+        "description": "",
+        "name": "updateTestStatus",
+        "resultFileName": "UpdateTestStatus"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1691679202127,
+      "duration": 299,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

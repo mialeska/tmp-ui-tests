@@ -1,0 +1,13 @@
+{
+  "name": "UI Automation Suite",
+  "status": "fail",
+  "tests": [
+    "UIAutomationSuite/UIRegression"
+  ],
+  "total": 1,
+  "pass": 0,
+  "fail": 1,
+  "skip": 0,
+  "startTime": 1691679198700,
+  "endTime": 1691679202426
+}
